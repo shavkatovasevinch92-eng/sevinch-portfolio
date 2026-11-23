@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" role="img" aria-label="Sevinch Shavkatova monogram placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5E1A2F"/><stop offset="1" stop-color="#3A0E1B"/></linearGradient>
+    <pattern id="grain" width="40" height="40" patternUnits="userSpaceOnUse"><circle cx="5" cy="7" r="1" fill="#E3C48A" opacity=".17"/><circle cx="25" cy="29" r="1.2" fill="#E3C48A" opacity=".12"/></pattern>
+  </defs>
+  <rect width="700" height="700" fill="url(#bg)"/><rect width="700" height="700" fill="url(#grain)"/>
+  <circle cx="350" cy="350" r="215" fill="none" stroke="#E3C48A" stroke-opacity=".35"/>
+  <text x="350" y="410" text-anchor="middle" fill="#E3C48A" font-family="Georgia,serif" font-size="210">S</text>
+  <text x="350" y="505" text-anchor="middle" fill="#FAF6F4" font-family="Arial,sans-serif" font-size="22" letter-spacing="7">SEVINCH</text>
+</svg>
